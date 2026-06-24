@@ -1,0 +1,14 @@
+
+Data Quality Summary
+--------------------
+Fund master entries: 40
+NAV history entries: 46000
+Missing AMFI codes: 0
+Missing values in monthly SIP inflows:
+month                         0
+sip_inflow_crore              0
+active_sip_accounts_crore     0
+new_sip_accounts_lakh         0
+sip_aum_lakh_crore            0
+yoy_growth_pct               12
+dtype: int64
